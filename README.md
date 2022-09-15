@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 Пак тест
 
 И пак....
+
+I sega локално
